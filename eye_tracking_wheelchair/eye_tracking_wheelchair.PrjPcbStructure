@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=power_module.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=esp32_control.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=esp32_control.SchDoc|FileName=main_diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=esp32_control.SchDoc|FileName=power_module.SchDoc|SheetNumber=1
