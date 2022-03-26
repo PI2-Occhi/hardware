@@ -1,3 +1,5 @@
-Record=TopLevelDocument|FileName=esp32_control.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=esp32_control.SchDoc|FileName=main_diagram.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=esp32_control.SchDoc|FileName=power_module.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=main_diagram.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main_diagram.SchDoc|Designator=U_conn_ext-module|SchDesignator=U_conn_ext-module|FileName=conn_ext-module.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=conn_ext-module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main_diagram.SchDoc|Designator=U_esp32_control|SchDesignator=U_esp32_control|FileName=esp32_control.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=esp32_control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main_diagram.SchDoc|Designator=U_power_module|SchDesignator=U_power_module|FileName=power_module.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=power_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main_diagram.SchDoc|Designator=U_three-phase_inverter|SchDesignator=U_three-phase_inverter|FileName=three-phase_inverter.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=three-phase_inverter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
